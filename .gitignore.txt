@@ -1,3 +1,0 @@
-DeJon.nb
-
-data/
