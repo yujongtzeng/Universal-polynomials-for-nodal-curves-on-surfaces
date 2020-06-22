@@ -1,8 +1,8 @@
 # Universal-polynomials-for-nodal-curves-on-surfaces
-This project uses the Caporaso-Harris and Vakil's invariants  to compute universal polynomials of nodal curves on surfaces satisfying given tangency conditions.
+This project uses the Caporaso-Harris and Vakil's invariants to compute universal polynomials of nodal curves on surfaces satisfying given tangency conditions and their generating series.
 
 ### Prerequisites
-Mathematica (recent versions). 
+Wolfram Mathematica 10. 
 
 ### Installing
 
@@ -12,15 +12,10 @@ No installation is needed.
 
 If you just want to look at the computed results, just open the corresponding file and the results are ready.
 
-If you want to run the computation yourself:
-1. open the corresponding file  
+If you want to run the computation or modify the codes:
+1. open the file  
 2. follow the instruction on the top of the file to evaluate data files
 3. evalute the file
-
-### Tests
-
-The computed result is under /results directory. Run the computation by yourself and see if the results match. 
-
 
 ## Authors
 
